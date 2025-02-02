@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738498602665,660,Auth Request,200,OK,CATALOGPRODUCT_CREATEPRODUCT 1-1,text,true,,2625,481,1,1,https://api-m.sandbox.paypal.com/v1/oauth2/token,660,0,360
+1738498603326,446,PRODUCT_TR_CREATEPRODUCT,200,"Number of samples in transaction : 1, number of failing samples : 0",CATALOGPRODUCT_CREATEPRODUCT 1-1,,true,,1596,553,1,1,null,0,2,0
+1738498603327,446,Create Product Request,201,Created,CATALOGPRODUCT_CREATEPRODUCT 1-1,text,true,,1596,553,1,1,https://api-m.sandbox.paypal.com/v1/catalogs/products,446,0,0
